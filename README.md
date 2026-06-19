@@ -122,4 +122,3 @@ From here, a support team can:
 - Wire up health probes using the existing `/health` route.
 
 None of that lives in this repo by design — it's the work to be done.
-# starter-app
